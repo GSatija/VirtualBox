@@ -1,5 +1,6 @@
 # VirtualBox
-##This is to help any one using Mac OS and download VirtualBox using command line
+
+## This is to help any one using Mac OS and download VirtualBox using command line
 
 During this download the latest version of Virtual box was 6.0.16. 
 
@@ -9,12 +10,11 @@ If you want to download the latest version, do the following steps:
 3. Copy the link and use it code below
 
 
-Terminal Commands:
-``
-cd /tmp
-curl -O https://download.virtualbox.org/virtualbox/6.0.16/VirtualBox-6.0.16-135675-OSX.dmg
-hdiutil attach VirtualBox-6.0.16-135675-OSX.dmg
-sudo installer -pkg /Volumes/VirtualBox/VirtualBox.pkg -target /Volumes/Macintosh\ HD
-rm VirtualBox-6.0.16-135675-OSX.dmg
-``
-
+## Terminal Commands:
+```Terminal
+  cd /tmp
+  curl -O https://download.virtualbox.org/virtualbox/6.0.16/VirtualBox-6.0.16-135675-OSX.dmg
+  hdiutil attach VirtualBox-6.0.16-135675-OSX.dmg
+  sudo installer -pkg /Volumes/VirtualBox/VirtualBox.pkg -target /Volumes/Macintosh\ HD
+  rm VirtualBox-6.0.16-135675-OSX.dmg
+```
