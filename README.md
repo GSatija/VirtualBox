@@ -1,6 +1,6 @@
 # VirtualBox
 
-## This is to help any one using Mac OS and download VirtualBox using command line
+## This is to help anyone using Mac OS and wants to download VirtualBox using command line
 
 During this download the latest version of Virtual box was 6.0.16. 
 
